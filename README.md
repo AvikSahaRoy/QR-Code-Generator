@@ -8,5 +8,7 @@
   QR-Code-Generator Website Link - <a href="https://aviksaharoy.github.io/QR-Code-Generator/">Click Here</a>
 </p>
 
+<p>Technologies Used - HTML, CSS, JavaScript</p>
+
 </body>
 </html>
